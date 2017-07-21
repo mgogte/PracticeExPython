@@ -1,5 +1,5 @@
 # Splitwise
-
+#test comment
 n,k = raw_input().split() #n items ordered, anna did not eat kth item
 arr = raw_input().split() #prices of n items
 anna_paid = raw_input().split() # anna paid this amount
